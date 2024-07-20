@@ -1,0 +1,6 @@
+{
+   "editor.formatOnSave": true,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "prettier.configPath": "app/frontend/.prettierrc.json",
+   "editor.fontSize": 12
+}
