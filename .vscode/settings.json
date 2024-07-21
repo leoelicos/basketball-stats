@@ -2,5 +2,7 @@
    "editor.formatOnSave": true,
    "editor.defaultFormatter": "esbenp.prettier-vscode",
    "prettier.configPath": "app/frontend/.prettierrc.json",
-   "editor.fontSize": 12
+   "editor.fontSize": 12,
+   "css.lint.float": "ignore",
+   "css.format.spaceAroundSelectorSeparator": true
 }
